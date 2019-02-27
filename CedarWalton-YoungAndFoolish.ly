@@ -17,9 +17,8 @@ lower = \relative c {
   <g' des' ges>2 <ges c f>2 <f b e>2 <e bes' ees>4. <a ees' aes>8~<a ees' aes>2 <aes d g> <g des'> <ges c f>4. <f ces'>8
 }
 
-Chord = \chordChanges{}
-
 \score {
+
   \new PianoStaff <<
     \set PianoStaff.instrumentName = #"Piano  "
     \chordmusic
