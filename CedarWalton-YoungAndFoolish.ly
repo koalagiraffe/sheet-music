@@ -11,7 +11,7 @@ lower = \relative c {
   \key c \major
   \time 4/4
 
-  a2 c
+  <g' des' ges>2 < >2 < >2 < >2 < >2 < >2
 }
 
 \score {
