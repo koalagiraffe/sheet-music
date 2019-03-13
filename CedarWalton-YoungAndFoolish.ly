@@ -1,7 +1,9 @@
 chordmusic =  \chords { 
+
   a2:7 d2:7 g2:7 c2:7.9+ f2:7.9+ bes2:7 ees2:7 aes4:7 des8:7
   }
 upper = \relative c'' {
+  \tempo  "Andante" 4 = 120
   \clef treble
   \key c \major
   \time 4/4
