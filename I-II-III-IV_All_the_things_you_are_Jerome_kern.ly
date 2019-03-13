@@ -2,6 +2,7 @@ chordmusic =  \chords {
 c4.:maj7 d8:m7 e4:m7 f4.:maj7 e4:m7 d4:m7 c4:maj7
   }
 upper = \relative c' {
+  \tempo 4=120
   \clef treble
   \key c \major
   \time 4/4
